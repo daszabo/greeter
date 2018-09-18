@@ -1,0 +1,4 @@
+github.com/daszabo/testmod v1.0.1 h1:HkMCNwYUYuvj0yd+H3LFM3u3KvHqUIWWtLdoY73P01E=
+github.com/daszabo/testmod v1.0.1/go.mod h1:/bu7JAETPXjbmWddMF5vYJLbpDFapbLEP1j+oa6uJhw=
+github.com/daszabo/testmod/v2 v2.0.0 h1:hRxBssMccqTYtYTYuZ9c1v2B8blnERmjuB9wlM6zAhg=
+github.com/daszabo/testmod/v2 v2.0.0/go.mod h1:EW/cwBGDOshc1KLXL+GJTcCqdpV0E2AXd1P4WDAgU7s=
